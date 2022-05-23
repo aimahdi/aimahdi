@@ -1,4 +1,4 @@
-## ⚡ Hell there
+## ⚡ Hello there
 ### Nice to Meet You.
 I'm Amimul Ihsan Mahdi, Mobile Application Developer from Sylhet, Bangladesh.
 
