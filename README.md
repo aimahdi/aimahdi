@@ -1,23 +1,101 @@
-## ⚡ Hello there
-### Nice to Meet You.
-I'm Amimul Ihsan Mahdi, Mobile Application Developer from Sylhet, Bangladesh.
+# Hi, I'm Amimul Ihsan 👋
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+I debug the space between users, products, and code.
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=aimahdi&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aimahdi&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aimahdi&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+Senior Product Support Lead at FluentCart — I reproduce hard customer
+problems, trace them to root cause, and build the fix when a support reply
+isn't enough.
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aimahdi96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technophile_aim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aimahdi96) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amimulihsanmahdi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aimahdi96) 
+**Impact**
+- 5+ years in WordPress product support
+- 10,000+ support cases handled across 12+ WordPress products
+- 15+ support professionals trained and mentored
+- Support representative for FluentCart, FluentCRM, and FluentSMTP on WordPress.org
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## What I do
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+- Reproduce and isolate hard-to-replicate customer issues
+- Trace bugs to root cause across plugin, server, and database layers
+- Communicate findings to engineering in actionable form
+- Write custom code and workarounds when the product doesn't cover the case
+- Lead support for FluentCart; prior experience with Fluent Forms and FluentCRM
+- Work daily with WordPress, PHP, MySQL, REST APIs, JavaScript, payment
+  gateways, webhooks, subscriptions, and VAT
 
----
-[![](https://visitcount.itsvg.in/api?id=aimahdi&icon=4&color=1)](https://visitcount.itsvg.in)
+## Skills
+
+**Technical investigation:** root-cause analysis, cross-browser and payment
+debugging, MySQL troubleshooting and recovery, third-party webhook and
+integration diagnosis
+**Development:** PHP, WordPress plugin development, REST APIs, JavaScript, Vue.js
+**Commerce:** FluentCart, WooCommerce, Stripe, PayPal, subscriptions, VAT/VIES
+**Leadership:** support-team training and mentoring, documentation, escalation ownership
+
+## Customer impact
+
+Verified reviews from WordPress.org, grouped by the kind of problem they show
+me solving:
+
+**Root-cause diagnosis**
+> "...he pinpointed that my server environment had a character encoding
+> mismatch... It is rare to find support that actually investigates deep
+> configuration issues rather than just blaming other plugins."
+[FluentCart — Brilliant plugin backed by phenomenal support](https://wordpress.org/support/topic/brilliant-plugin-backed-by-phenomenal-support/)
+
+**Fast fixes under pressure**
+> "I submitted a bug report to the Fluent Team, and they completely resolved
+> the issue within 24 hours!"
+— a Safari "Security check failed" error blocking PayPal checkout.
+[FluentCart — Incredible support and lightning-fast bug fixes](https://wordpress.org/support/topic/incredible-support-and-lightning-fast-bug-fixes/)
+
+**Owning multiple issues at once**
+> "Amimul and his team have today demonstrated exceptional attentiveness in
+> addressing the concerns I raised."
+— a checkout bug, a payment-gateway coupon integration, and a currency-reporting
+discrepancy, resolved within two days with twice-daily updates.
+[FluentCart — Amazing Start!](https://wordpress.org/support/topic/amazing-start/)
+
+**Custom code, not just answers**
+> "Amimul went above and beyond providing some custom code and even a
+> 5-minute video explaining the code, how it works and how to modify it for
+> my use case."
+[Fluent Forms — Fantastic](https://wordpress.org/support/topic/fantastic-2978/)
+
+**Recovering trust after a rocky start**
+> "Amimul went into my site, added custom CSS and provided me with an
+> EXCELLENT loom video showing me exactly how he did it."
+— after the customer had been unresponsive for 3 days and asked for a refund.
+[Fluent Forms — Support Update! Good News!](https://wordpress.org/support/topic/support-unresponsive/)
+
+**Going beyond the plugin's own scope**
+> "Amimul really looked into it, even though he didn't have to... and for
+> that I'm forever grateful!"
+— a third-party webhook integration issue outside FluentCRM itself.
+[FluentCRM — Amazing Plugin – Even Greater Support!!!](https://wordpress.org/support/topic/amazing-plugin-even-greater-support/)
+
+[16 verified reviews and full case studies →](https://aimahdi.com)
+
+## Recognition
+
+- Support Superstar of the Year, 2023
+- WordPress.org contributor badges: Core Contributor '25, Support Contributor '26,
+  Plugin Developer, Pattern Author '22, Translation Contributor '22, Photo Contributor '22
+  — [full profile →](https://profiles.wordpress.org/amimulihsanmahdi/)
+
+## Current stack
+
+**WordPress:** PHP, REST APIs, hooks and filters, plugin development
+**Products:** FluentCart, Fluent Forms, FluentCRM, FluentSMTP, WooCommerce
+**Commerce:** Stripe, PayPal, webhooks, subscriptions
+**Frontend:** JavaScript, Vue.js, HTML, CSS
+**Data & tools:** MySQL, Git, Composer, npm
+
+## Background
+
+Started in competitive programming (C/C++/Java) and Flutter/Android
+development — the engineering foundation that now lets me dig past a
+symptom to the actual cause.
+
+## Contact
+
+[aimahdi.com](https://aimahdi.com) · [WordPress.org](https://profiles.wordpress.org/amimulihsanmahdi/) · [LinkedIn](https://linkedin.com/in/aimahdi96) · [Medium](https://medium.com/@amimulihsanmahdi)
