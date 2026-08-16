@@ -10,6 +10,7 @@ isn't enough.
 - 5+ years in WordPress product support
 - 10,000+ support cases handled across 12+ WordPress products
 - 15+ support professionals trained and mentored
+- Previously led support for Fluent Forms and FluentCRM. Now leading FluentCart support
 - Support representative for FluentCart, FluentCRM, and FluentSMTP
 
 ## What I do
@@ -18,7 +19,7 @@ isn't enough.
 - Trace bugs to root cause across plugin, server, and database layers
 - Communicate findings to engineering in actionable form
 - Write custom code and workarounds when the product doesn't cover the case
-- Currently lead support for FluentCart. Previously led support for Fluent Forms and FluentCRM
+- Lead the FluentCart support team
 - Work daily with WordPress, PHP, MySQL, REST APIs, JavaScript, payment
   gateways, webhooks, subscriptions, and VAT
 
