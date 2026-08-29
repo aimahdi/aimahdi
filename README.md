@@ -8,7 +8,7 @@ isn't enough.
 
 **Impact**
 - 5+ years in WordPress product support
-- 10,000+ support cases handled across 12+ WordPress products
+- 15,000+ support cases handled across 12+ WordPress products
 - 15+ support professionals trained and mentored
 - Previously led support for Fluent Forms and FluentCRM. Now leading FluentCart support
 - Support representative for FluentCart, FluentCRM, and FluentSMTP
