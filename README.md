@@ -3,8 +3,8 @@
 I debug the space between users, products, and code.
 
 Senior Product Support Lead at FluentCart. I reproduce hard customer
-problems, trace them to root cause, and build the fix when a support reply
-isn't enough.
+problems, test every FluentCart release, trace bugs to root cause, and build
+the fix when a support reply isn't enough.
 
 **Impact**
 - 5+ years in WordPress product support
@@ -23,6 +23,21 @@ isn't enough.
 - Work daily with WordPress, PHP, MySQL, REST APIs, JavaScript, payment
   gateways, webhooks, subscriptions, and VAT
 
+## Testing
+
+- Core tester for FluentCart since before its 2025 launch: 44+ releases
+  tested, every one since launch
+- 178+ merged pull requests, most of them bug fixes that started as support
+  cases
+- WooCommerce Core [#67703](https://github.com/woocommerce/woocommerce/pull/67703):
+  coupon minimum and maximum spend validated against stale state. Merged to
+  trunk, in 11.1.0 beta, pending stable release.
+- 19+ security vulnerability reports filed through WPScan, HackerOne and
+  GitHub Security Advisories, two rated critical (9.8). Private, coordinated
+  disclosure only.
+- I also take independent, one-off plugin QA and security reviews:
+  [aimahdi.com](https://aimahdi.com)
+
 ## Skills
 
 **Technical investigation:** root-cause analysis, cross-browser and payment
@@ -34,8 +49,8 @@ integration diagnosis
 
 ## Customer impact
 
-Verified reviews from WordPress.org, grouped by the kind of problem they show
-me solving:
+Some of my verified reviews from WordPress.org, grouped by the kind of problem
+they show me solving:
 
 **Root-cause diagnosis**
 > "...he pinpointed that my server environment had a character encoding
@@ -76,7 +91,7 @@ refund.
 Context: a third-party webhook integration issue outside FluentCRM itself.
 [FluentCRM: Amazing Plugin – Even Greater Support!!!](https://wordpress.org/support/topic/amazing-plugin-even-greater-support/)
 
-[16 verified reviews and full case studies →](https://aimahdi.com)
+[More verified reviews and full case studies →](https://aimahdi.com)
 
 ## Gists
 
@@ -89,6 +104,8 @@ metadata, VAT and tax calculations, REST API usage, and more, dating back to
 
 ## Recognition
 
+- Outstanding Product Launch and Outstanding Product Team, 2025 (FluentCart,
+  core tester)
 - Support Superstar of the Year, 2023
 - WordPress.org contributor badges: Core Contributor '25, Support Contributor
   '26, Plugin Developer, Pattern Author '22, Translation Contributor '22,
