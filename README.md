@@ -17,16 +17,16 @@ the fix when a support reply isn't enough.
 
 ![CVEs](https://img.shields.io/badge/CVEs-6-critical?style=flat-square) ![Credited by Symfony](https://img.shields.io/badge/credited%20by-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Coordinated Disclosure](https://img.shields.io/badge/disclosure-coordinated-1f6feb?style=flat-square)
 
-I find and responsibly disclose vulnerabilities in widely used open-source software and WordPress plugins. Most recently, the **Symfony security team** credited me on **6 CVEs** in the [25 Nov 2026 security release](https://symfony.com/blog/category/security) — one as the **reporter** of an original finding and five as an independent **finder**. Credited to **Amimul Ihsan** ([@aimahdi](https://github.com/aimahdi)).
+I find and responsibly disclose vulnerabilities in widely used open-source software and WordPress plugins. Most recently, the **Symfony security team** credited me on **6 CVEs** in the [25 Nov 2026 security release](https://symfony.com/blog/category/security) — one as the **original reporter** and five as an **independent reporter**. Credited to **Amimul Ihsan** ([@aimahdi](https://github.com/aimahdi)).
 
 | CVE | Advisory | Component — Issue | Credit |
 |-----|----------|-------------------|--------|
-| CVE-2026-134790 | [GHSA-xf2q-gfhq-mv2q](https://github.com/symfony/symfony/security/advisories/GHSA-xf2q-gfhq-mv2q) | Security — login redirect reaches another host when `cookie_domain` is set | **🏷️ Reporter** |
-| CVE-2026-133752 | [GHSA-qv8q-hf5w-5gjf](https://github.com/symfony/symfony/security/advisories/GHSA-qv8q-hf5w-5gjf) | Serializer — `#[Ignore]` not enforced via a Discriminator Map | Finder |
-| CVE-2026-133759 | [GHSA-4q5m-f3jq-v37c](https://github.com/symfony/symfony/security/advisories/GHSA-4q5m-f3jq-v37c) | Security — Doctrine remember-me accepts outdated tokens | Finder |
-| CVE-2026-133743 | [GHSA-8cww-v5fg-2mf9](https://github.com/symfony/symfony/security/advisories/GHSA-8cww-v5fg-2mf9) | HttpKernel — inline fragments trust untrusted forwarded headers | Finder |
-| CVE-2026-133745 | [GHSA-q2qh-q4p8-qcmj](https://github.com/symfony/symfony/security/advisories/GHSA-q2qh-q4p8-qcmj) | Routing — paths starting with `//host` redirect to another host | Finder |
-| CVE-2026-133757 | [GHSA-v6qm-94rx-6x93](https://github.com/symfony/symfony/security/advisories/GHSA-v6qm-94rx-6x93) | HttpClient — `NoPrivateNetworkHttpClient` leaks default credentials on redirect | Finder |
+| CVE-2026-134790 | [GHSA-xf2q-gfhq-mv2q](https://github.com/symfony/symfony/security/advisories/GHSA-xf2q-gfhq-mv2q) | Security — login redirect reaches another host when `cookie_domain` is set | **🏷️ Original reporter** |
+| CVE-2026-133752 | [GHSA-qv8q-hf5w-5gjf](https://github.com/symfony/symfony/security/advisories/GHSA-qv8q-hf5w-5gjf) | Serializer — `#[Ignore]` not enforced via a Discriminator Map | Independent reporter |
+| CVE-2026-133759 | [GHSA-4q5m-f3jq-v37c](https://github.com/symfony/symfony/security/advisories/GHSA-4q5m-f3jq-v37c) | Security — Doctrine remember-me accepts outdated tokens | Independent reporter |
+| CVE-2026-133743 | [GHSA-8cww-v5fg-2mf9](https://github.com/symfony/symfony/security/advisories/GHSA-8cww-v5fg-2mf9) | HttpKernel — inline fragments trust untrusted forwarded headers | Independent reporter |
+| CVE-2026-133745 | [GHSA-q2qh-q4p8-qcmj](https://github.com/symfony/symfony/security/advisories/GHSA-q2qh-q4p8-qcmj) | Routing — paths starting with `//host` redirect to another host | Independent reporter |
+| CVE-2026-133757 | [GHSA-v6qm-94rx-6x93](https://github.com/symfony/symfony/security/advisories/GHSA-v6qm-94rx-6x93) | HttpClient — `NoPrivateNetworkHttpClient` leaks default credentials on redirect | Independent reporter |
 
 More coordinated disclosures are in progress across OSS and WordPress ecosystems (embargoed until fixed). Private, coordinated disclosure only — [aimahdi.com](https://aimahdi.com).
 
